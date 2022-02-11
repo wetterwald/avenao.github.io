@@ -8,7 +8,7 @@
 
 .header .title {
     height: 300px;
-    background-color: #005686;
+    background-color: #DC2228;
     width: 100%;
     padding-bottom: 25px;
     padding-top: 25px;
@@ -61,7 +61,7 @@
 }
 
 .header .content-wrapper h3 {
-    color: #005686;
+    color: #DC2228;
     font-size: 24px;
     font-family: "3ds"
 }
@@ -189,7 +189,7 @@ content h3 {
     font-weight: normal;
     font-size: 40px;
     font-family: "3ds";
-    color: #005686;
+    color: #DC2228;
     line-height: 1.2
 }
 
@@ -318,10 +318,10 @@ p.subtitle .dweight {
     .header .header-image {
         max-height: 322px;
         left: calc( ((50% -44px) / 2) - 177px);
-        top: -85px
+        top: 35px
     }
     .header .header-title-span {
-        margin-top: 140px;
+        margin-top: 110px;
         margin-left: 0;
         width: 100%;
         text-align: center
